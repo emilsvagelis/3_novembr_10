@@ -5,7 +5,7 @@ b = float(input("Ievadi b: "))
 c = float(input("Ievadi c: ")) #trūka iekavas
 
 # Diskriminants
-D = b**2 - 4*a*c
+D = b**2 - 4*a*c #aprēķina diskriminantu
 
 # Sakņu aprēķins
 if D > 0:
